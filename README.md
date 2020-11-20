@@ -7,7 +7,7 @@
 
 - 🎓 I have a degree in Multimedial Design
 - 🔭 I’m about to graduate in Full Stack Web Development from HENRY Academy
-- 🌱 Check out my e-commerce project 
+- 🌱 Check out my projects!
 // JavaScript, React, Redux, Axios, HTML, CSS - Bootstrap, Material UI, Sequelize, PostgreSQL, JWT //
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: find an IT job where I could keep on growing. Also create new and interesting projects!  
