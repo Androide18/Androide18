@@ -3,7 +3,7 @@
 
 ## I'm a FULL STACK WEB DEVELOPER & MULTIMEDIAL DESIGNER
 
-#### La Plata - Argentina
+#### Posadas - Misiones - Argentina
 
 - 🎓 I have a degree in Multimedial Design
 - 🔭 I’m a Full Stack Web Development - graduated from HENRY Academy
