@@ -48,21 +48,24 @@ Outside coding, I play drums 🎶 and skate 🛹 — both feed my creativity and
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</div>
+
+<br />
+<br />
 
 
 **Other techs I work with / learning / tools I love:**
 
-- **Backend & APIs**: Express, Sequelize, REST, GraphQL, NestJS  
-- **Databases**: PostgreSQL, MySQL
-- **Authentication & Security**: JWT, OAuth, bcrypt  
-- **State & Data Management**: Redux, Context API, TanstackQuery, Zustand
-- **UI & Styling**: Material UI, Bootstrap, styled-components, SASS / SCSS  
-- **Testing**: Jest, React Testing Library  
-- **Versioning & Collaboration**: Git, GitHub Flow, Pull Requests, CI/CD  
-- **Design / Multimedia**: Figma, Adobe Photoshop / Illustrator, After Effects, Adobe XD  
-- **Other tools / utilities**: ESLint, Prettier, Postman / Insomnia 
+**Backend & APIs**: Express, Sequelize, REST, GraphQL, NestJS  
+**Databases**: PostgreSQL, MySQL
+**Authentication & Security**: JWT, OAuth, bcrypt  
+**State & Data Management**: Redux, Context API, TanstackQuery, Zustand
+**UI & Styling**: Material UI, Bootstrap, styled-components, SASS / SCSS  
+**Testing**: Jest, React Testing Library  
+**Versioning & Collaboration**: Git, GitHub Flow, Pull Requests, CI/CD  
+**Design / Multimedia**: Figma, Adobe Photoshop / Illustrator, After Effects, Adobe XD  
+**Other tools / utilities**: ESLint, Prettier, Postman / Insomnia 
 
-</div>
 <br />
 <br />
 
